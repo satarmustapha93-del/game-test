@@ -1,0 +1,7 @@
+{
+  "leaderboard": {
+    "stats": [
+      { "key": "time", "label": "Fastest time", "order": "lowest", "format": "time" }
+    ]
+  }
+}
